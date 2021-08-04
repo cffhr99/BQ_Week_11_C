@@ -1,16 +1,1 @@
-[
-  null,
-  {
-    "title": "Example",
-    "text": "write something",
-    "id": {
-      "title": "Test Title",
-      "text": "Test text"
-    }
-  },
-  {
-    "title": "Another Example",
-    "text": "something wrote",
-    "id": null
-  }
-]
+[]
