@@ -9,6 +9,7 @@
   An application called Note Taker was created that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
   ## Installation:
   npm install express
+  ![demo.gif](https://github.com/cffhr99/BQ_Week_11_C/blob/main/demo.gif?raw=true)
   ## Usage:
   node server   
   localhost:3001  
